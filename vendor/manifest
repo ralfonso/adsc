@@ -1,0 +1,13 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/stretchr/testify",
+			"repository": "https://github.com/stretchr/testify",
+			"vcs": "git",
+			"revision": "05aa1d4af4523cd559eb902635444b0a09a3799f",
+			"branch": "master",
+			"notests": true
+		}
+	]
+}
